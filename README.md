@@ -1,2 +1,2 @@
 # expenses-with-react
-It's project for React fundamentals.
+It's a project for React fundamentals.
