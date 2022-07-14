@@ -1,2 +1,3 @@
-# expenses-with-react
-It's a project for React fundamentals.
+# expenses project
+It's a project for React(18) fundamentals.
+![Screenshot](screenshot.jpg)
